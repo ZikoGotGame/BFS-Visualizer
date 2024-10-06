@@ -1,1 +1,1 @@
-This program visualizes the Breadth First Search Aglorithm. Wacth the Video!
+This program visualizes the Breadth First Search Aglorithm. Wacth the video!
